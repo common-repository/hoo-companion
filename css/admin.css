@@ -1,0 +1,12 @@
+.hoothemes_metabox img{
+	max-width:100%;
+}
+.butterbean-content .iconpicker-component{
+	position:absolute;
+	right:5px;
+	top:8px;
+	}
+.butterbean-ui .butterbean-manager-default{
+	overflow: visible;
+    display: flex;
+}
